@@ -24,7 +24,7 @@
 
 ## 课程目录
 
-- [第一天Day01](https://github.com/dashuaixu/Python-Cources-30days/blob/main/30天Python编程挑战 -- 第1天.ipynb)  1⃣️ 
+- [第一天Day01](https://github.com/dashuaixu/Python-Cources-30days/blob/main/30天Python编程挑战第1天.ipynb)  1⃣️ 
 
   
 
