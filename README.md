@@ -25,9 +25,7 @@
 ## 课程目录
 
 - [第一天Day01](https://github.com/dashuaixu/Python-Cources-30days/blob/main/%E7%AC%AC1%E5%A4%A9/30%E5%A4%A9Python%E7%BC%96%E7%A8%8B%E6%8C%91%E6%88%98%E7%AC%AC1%E5%A4%A9.ipynb)  1⃣️ 
-
-
-
+- [第二天Day02]()  2⃣️
 
 
 
